@@ -45,3 +45,29 @@ svg {
 @keyframes stroke-offset{
     100% {stroke-dashoffset: -35%;}
 }
+
+
+/* Path: index.html */
+body{
+    background: #E6DADA;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #274046, #E6DADA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #274046, #E6DADA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* add dropdown menu and item hight*/
+.dropdown-menu {
+    min-width: 200px;
+}
+
+.dropdown-menu > li > a {
+    padding: 10px 20px;
+}
+
+/* add padding to the bottom of the footer */
+.footer {
+    padding-bottom: 60px;
+}
+
+
+
+

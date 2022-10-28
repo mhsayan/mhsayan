@@ -1,0 +1,22 @@
+[
+    {
+        "title": "UnblockIt",
+        "url": "https://unblockit.tv/",
+        "icon": "http://ia.media-imdb.com/images/M/MV5BMTMwMjQ5NjQxN15BMl5BanBnXkFtZTYwNjQ5Njg2._V1_SX300.jpg",
+        "description": "Test Description",
+        "tooltip": "Bypass Blocks"
+    }
+    ,{
+        "title": "1337X",
+        "url": "https://1337x.to/home/",
+        "icon": "http://ia.media-imdb.com/images/M/MV5BMTMwMjQ5NjQxN15BMl5BanBnXkFtZTYwNjQ5Njg2._V1_SX300.jpg",
+        "description": "Test Description",
+        "tooltip": "Torrent"
+    },{
+        "title": "RARBG",
+        "url": "https://rarbg.to",
+        "icon": "http://ia.media-imdb.com/images/M/MV5BMTMwMjQ5NjQxN15BMl5BanBnXkFtZTYwNjQ5Njg2._V1_SX300.jpg",
+        "description": "Test Description",
+        "tooltip": "Bypass Blocks"
+    }
+]
