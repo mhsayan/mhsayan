@@ -4,7 +4,7 @@
 - 👀 I’m interested in open-source software
 - 🌱 I’m currently learning go language
 - 💞️ I’m looking to collaborate on .Net Core and golang projects
-- 📫 How to reach me? 🤔 "mhsayan.dev@gmail.com"
+- 📫 How to reach me? 🤔 "contact@iamsayan.dev"
 - ⚡ Fun fact: I am hungry open-source software
 
 <!---
